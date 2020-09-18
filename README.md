@@ -1,3 +1,3 @@
 # MCM-IMMC-HiMCM
-copyright Mischievious
+copyright @Mischievious
 DO NOT FOLK
